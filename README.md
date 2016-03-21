@@ -1,2 +1,2 @@
-# twrp_hw4c for android 5.1 / emui 3.1
+# twrp 3.0 hw4c for android 5.1/6
 
